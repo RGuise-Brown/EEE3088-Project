@@ -1,0 +1,24 @@
+Power Module - Micro-Mouse Project (WIP)
+
+This folder contains all the design files, component selection information, and testing procedures related to the power module for our micro-mouse robot.
+
+Project Goal:
+
+The power module aims to efficiently power the robot's motors, manage battery charging, switch the robot on and off and provide the processor with information about the battery level.
+
+Module Requirements(details in project brief and report):
+
+- Deliver sufficient power (up to 200mA per motor) to operate two DC motors using the provided battery.
+- Integrate a battery monitoring system to provide an analog voltage signal for estimating the battery's State of Charge (SoC).
+- Include a safe and efficient charging circuit that utilizes the 5V input to recharge the battery.
+- Implement an on/off switch, minimizing power consumption in the off state (below 500uA) and handling peak current draw when activated.
+- Design the PCB to fit the designated space on the provided motherboard and adhere to overall size constraints.
+
+Current Progress (WIP):
+Currently, the PCB has been designed and is being developed. Once it arrives, testing of the PCB will start.
+
+Files:
+There have been 4 distinct version of the PCB. The main change to each was the switch that was used. The previous versions have been kept to show other design options. Version 2 was discarded becasue it was not feasible. 
+- Project_PCB_v1
+- Project_PCB_v3
+- Project_PCB_v4 (sent for production)
