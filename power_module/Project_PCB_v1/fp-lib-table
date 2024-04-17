@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SSAJ110100")(type "KiCad")(uri "/Users/rachaelguise-brown/Downloads/SSAJ110100")(options "")(descr ""))
+  (lib (name "100SP1T1B1M2QEH")(type "KiCad")(uri "/Users/rachaelguise-brown/Downloads/100SP1T1B1M2QEH")(options "")(descr ""))
+  (lib (name "SS-12D10L5")(type "KiCad")(uri "/Users/rachaelguise-brown/Desktop/EEE 3088/SS-12D10L5")(options "")(descr ""))
+)
