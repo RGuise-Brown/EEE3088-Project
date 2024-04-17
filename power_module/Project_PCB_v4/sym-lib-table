@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "100SP1T1B1M2QEH")(type "KiCad")(uri "/Users/rachaelguise-brown/Downloads/100SP1T1B1M2QEH/100SP1T1B1M2QEH.kicad_sym")(options "")(descr ""))
+  (lib (name "SS-12D10L5")(type "KiCad")(uri "/Users/rachaelguise-brown/Desktop/EEE 3088/SS-12D10L5/SS-12D10L5.kicad_sym")(options "")(descr ""))
+)
